@@ -31,7 +31,7 @@ Our study is based on the Temple University Hospital Abnormal EEG Corpus (v2.0.0
 
 If you use this code in a scientific publication, please cite us as:
 
-.. code-block:: bibtex
+```
 
 @article{kiessner2023tuabexb,
   title={An Extended Clinical EEG Dataset with 15,300 Automatically Labelled Recordings for Pathology Decoding},
@@ -39,3 +39,5 @@ If you use this code in a scientific publication, please cite us as:
   journal={Available at SSRN 4387102},
   doi={http://dx.doi.org/10.2139/ssrn.4387102 }
 }
+
+```
