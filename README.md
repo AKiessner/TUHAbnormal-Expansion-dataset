@@ -1,4 +1,4 @@
-# TUHAbnormal-Extended-dataset
+# TUHAbnormal-Expansion-dataset
 
 This repository contains resources that were used for our study entitled
 
