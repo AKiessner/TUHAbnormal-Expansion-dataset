@@ -31,6 +31,8 @@ Our study is based on the Temple University Hospital Abnormal EEG Corpus (v2.0.0
 
 If you use this code in a scientific publication, please cite us as:
 
+.. code-block:: bibtex
+
 @article{kiessner2023tuabexb,
   title={An Extended Clinical EEG Dataset with 15,300 Automatically Labelled Recordings for Pathology Decoding},
   author={Kiessner, Ann-Kathrin and Schirrmeister, Robin Tibor and Gemein, Lukas and Boedecker, Joschka and Ball, Tonio},
