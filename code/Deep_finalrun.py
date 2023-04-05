@@ -4,11 +4,11 @@ from train_tuheeg_pathology_balanced_saturation_finalrun import *
 model_name = 'Deep4Net'  # 
 
 
-Drop_prob=[0.5]
-Batch_size=[64]
-Lr=[0.01]
-N_epochs=[35]
-Weight_decay=[0.0005]
+drop_prob=0.5
+batch_size=64
+lr=0.01
+n_epochs=35
+weight_decay=0.0005
 seed= 20170629
 
 result_folder='/home/results/TUAB/eval/'
