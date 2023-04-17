@@ -8,7 +8,7 @@ We present a novel curation of the publicly available TUH EEG Corpus called the 
 
 ## Contents
 
-- dataset_description/ - description of all datasets and train/test data splits. Each description contains the path of the recordings used and pathology labels based on automated classification of the medical text reports. 
+- dataset_description/ - description of all datasets and train/test data splits. Each description contains the path of the recordings used and the corresponding pathology labels based on automated classification of the medical text reports. 
 
 - code/ - Python scripts and notebooks for processing of the text files and training pipeline of the convolutional neural networks.
 
