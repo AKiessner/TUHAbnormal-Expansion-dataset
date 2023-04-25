@@ -4,7 +4,7 @@ This repository contains resources that were used for our study entitled
 
 "An Extended Clinical EEG Dataset with 15,300 Automatically Labelled Recordings for Pathology Decoding".
 
-We present a novel curation of the publicly available TUH EEG Corpus called the TUH Abnormal Expansion Corpus (TUABEX) and its balanced counterpart, the TUH Abnormal Expansion Balanced Corpus (TUABEXB), which we used to train and test four established deep convolutional neural networks (ConvNets) for pathological versus non-pathological classification. It can also be used to train and test other feature-based or end-to-end machine learning apporaches.
+We present a novel curation of the publicly available TUH EEG Corpus called the TUH Abnormal Expansion EEG Corpus (TUABEX) and its balanced counterpart, the TUH Abnormal Expansion Balanced EEG Corpus (TUABEXB), which we used to train and test four established deep convolutional neural networks (ConvNets) for pathological versus non-pathological classification. It can also be used to train and test other feature-based or end-to-end machine learning apporaches.
 
 ## Contents
 
