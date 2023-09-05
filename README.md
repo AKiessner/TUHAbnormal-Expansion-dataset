@@ -35,11 +35,15 @@ If you use this code in a scientific publication, please cite us as:
 
 ```
 
-@article{kiessner2023tuabexb,
-  title={An Extended Clinical EEG Dataset with 15,300 Automatically Labelled Recordings for Pathology Decoding},
-  author={Kiessner, Ann-Kathrin and Schirrmeister, Robin Tibor and Gemein, Lukas and Boedecker, Joschka and Ball, Tonio},
-  journal={Available at SSRN 4387102},
-  doi={http://dx.doi.org/10.2139/ssrn.4387102 }
+@article{kiessner2023tuabexb, 
+  title = {An extended clinical EEG dataset with 15,300 automatically labelled recordings for pathology decoding},
+  journal = {NeuroImage: Clinical},
+  volume = {39},
+  pages = {103482},
+  year = {2023},
+  issn = {2213-1582},
+  doi = {https://doi.org/10.1016/j.nicl.2023.103482},
+  url = {https://www.sciencedirect.com/science/article/pii/S2213158223001730},
+  author = {Ann-Kathrin Kiessner and Robin T. Schirrmeister and Lukas A.W. Gemein and Joschka Boedecker and Tonio Ball},
 }
-
 ```
